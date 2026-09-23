@@ -1,0 +1,14 @@
+C:\Users\Ryanm\projetos_C#\Exercicios_8_9\bin\Debug\net10.0\Exercicios_8_9.exe
+C:\Users\Ryanm\projetos_C#\Exercicios_8_9\bin\Debug\net10.0\Exercicios_8_9.deps.json
+C:\Users\Ryanm\projetos_C#\Exercicios_8_9\bin\Debug\net10.0\Exercicios_8_9.runtimeconfig.json
+C:\Users\Ryanm\projetos_C#\Exercicios_8_9\bin\Debug\net10.0\Exercicios_8_9.dll
+C:\Users\Ryanm\projetos_C#\Exercicios_8_9\bin\Debug\net10.0\Exercicios_8_9.pdb
+C:\Users\Ryanm\projetos_C#\Exercicios_8_9\obj\Debug\net10.0\Exercicios_8_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryanm\projetos_C#\Exercicios_8_9\obj\Debug\net10.0\Exercicios_8_9.AssemblyInfoInputs.cache
+C:\Users\Ryanm\projetos_C#\Exercicios_8_9\obj\Debug\net10.0\Exercicios_8_9.AssemblyInfo.cs
+C:\Users\Ryanm\projetos_C#\Exercicios_8_9\obj\Debug\net10.0\Exercicios_8_9.csproj.CoreCompileInputs.cache
+C:\Users\Ryanm\projetos_C#\Exercicios_8_9\obj\Debug\net10.0\Exercicios_8_9.dll
+C:\Users\Ryanm\projetos_C#\Exercicios_8_9\obj\Debug\net10.0\refint\Exercicios_8_9.dll
+C:\Users\Ryanm\projetos_C#\Exercicios_8_9\obj\Debug\net10.0\Exercicios_8_9.pdb
+C:\Users\Ryanm\projetos_C#\Exercicios_8_9\obj\Debug\net10.0\Exercicios_8_9.genruntimeconfig.cache
+C:\Users\Ryanm\projetos_C#\Exercicios_8_9\obj\Debug\net10.0\ref\Exercicios_8_9.dll
